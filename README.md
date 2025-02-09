@@ -3,7 +3,7 @@
 **Objective:**
 
 - Apply MongoDB concepts learned throughout the week.
-- Practice working with databases, collections, and documents.
+- Practice working with databases, collections, and .
 - Develop skills in CRUD operations and data modeling.
 
 **Instructions:**
@@ -15,10 +15,9 @@
    - Verify the installation and connection by running:
      ```sh
      mongo --version
-     ```
-
+1
 2. **Database and Collection Creation:**
-
+/.p,l[kojiohgtfdrseawqZSFxdrfctgvuhjikol]
    - Create a new database called `library`.
    - Inside `library`, create a collection named `books`.
 
