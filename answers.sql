@@ -212,7 +212,7 @@ db.books.aggregate([ { $group: { _id: null, averagePublishedYear: { $avg: "$publ
 db.books.aggregate([{ $sort: { rating: -1 }},{$limit: 1}
 ]);
 
---question9
+--question 9 
 db.books.createIndex({ author: 1 });
 
 1.Faster Query Execution
